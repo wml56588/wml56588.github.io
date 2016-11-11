@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <title>Index.html</title>
+  <style type="text/css">
+P {font-family:"Times New Roman"}
+body {text-align:center;background-color:#C11B17}
+table#t01 {background-color:#BCC6CC}
+ol#l01 {text-align: center;list-style-position: inside}
+ol#l02 {text-align: center; list-style-position: inside}
+table.center {margin-left:auto;margin-right:auto;}
+</style>
+</head>
+<body>
+  <h1>SAE D-League</h1>
+  <h2><sub>AKA Brick Squad</sub></h2>
+     <h3><sub>Created By Murphy Lee</sub></h3>
+     <b>If you would like to see the real brick squad please visit</b> <a href="https://youtu.be/exhdQ57ZHR0"> this link</a>
+      <table id="t01" border="5" class="center">
+
+<tr>
+  <th>Number</th><th>Name</th><th>Position</th><th>Nickname</th><th>Special Skills</th>
+</tr>
+<tr>
+  <td>0</td><td><form style="cursor: pointer" action="https://www.facebook.com/murphy.lee.75" method="get">
+    <p><button>Murphy Lee</button></p>
+    </form></td><td>Point Guard</td><td>Mosh</td><td>Flows</td>
+<tr>
+  <td>1</td><td><form style="cursor: pointer" action="https://www.facebook.com/tommy.duffy.77?fref=ts" method="get">
+    <p><button>Tommy Duffy</button></p>
+    </form></td><td>Shooting Guard</td><td>Yatez</td><td>Sense of smell/sight</td>
+<tr>
+  <td>2</td><td><form style="cursor: pointer" action="https://www.facebook.com/bill.robertson.16?fref=ts" method="get">
+    <p><button>Bill Robertson</button></p>
+    </form></td><td>Point Guard</td><td>Trill</td><td>Dunking/Queebing</td>
+    <tr>
+  <td>3</td><td><form style="cursor: pointer" action="https://www.facebook.com/richard.ferguson.7583?fref=ts" method="get">
+    <p><button>Richard Ferguson</button></p>
+    </form></td><td>Power Forward</td><td>Little Dickles</td><td>Getting sick</td>
+    <tr>
+  <td>4</td><td><form style="cursor: pointer" action="https://www.facebook.com/parker.logan.7?fref=ts" method="get">
+    <p><button>Parker Logan</button></p>
+    </form></td><td>Power Forward</td><td>Dougie</td><td>Hazing</td>
+    <tr>
+  <td>5</td><td><form style="cursor: pointer" action="https://www.facebook.com/jack.barnes.75?fref=ts" method="get">
+    <p><button>Jack Barnes</button></p>
+    </form></td><td>Small Forward</td><td>Yavvy</td><td>Running to Ramsey</td>
+    <tr>
+  <td>6</td><td><form style="cursor: pointer" action="https://www.facebook.com/heyward.berry?fref=ts" method="get">
+    <p><button>Heyward Berry</button></p>
+    </form></td><td>Small Forward</td><td>Geyward</td><td>Getting Punched</td>
+    <tr>
+  <td>7</td><td><form style="cursor: pointer" action="https://www.facebook.com/guy.peek?fref=ts" method="get">
+    <p><button>Guy Peek</button></p>
+    </form></td><td>Center</td><td>Pipe Guy</td><td>Laying Pipe</td>
+</table>
+<form style="cursor: pointer" action="https://youtu.be/adsqqQybvTE" method="get">
+    <p><button>Highlight Reel</button></p>
+    </form>
+    <p><img src="Office.jpg" alt="The Squad" width="300" height="220"></p>
+
+<h1>Player Bios</h1>
+
+  <p>Murphy Lee #0: Murphy was born in Atlanta, Ga to an all around basketball family. His mom standing at 5'0" and his dad at 5'8" it was almost impossible for him not to pick up basketball within this towering family.</p>
+
+ <p>Tommy Duffy #1: Also born in Atlanta, Ga Yatez is a solid all around basketball player. I think one time in Church league he drained four 3's in one game. Don't quote me on that though.</p>
+ <p>Bill Robertson #2: An absolute savage ball handler. Out of Barlotte, NC Bill is an all around threat on the court. He has been called "The Steph Curry with no work ethic" by his peers.</p>
+ <p>Richard Ferguson #3: Lebron James esq. Richard aka Dick is an absolute monster on the court. A triple threat power forward out of Athens, Ga. Once the ball gets to Dick go ahead and call it a basket.</p>
+ <p>Parker Logan #4: Parker aka Dougal is somewhat of a "Silent Assassin." Not as much flare or pizazz as Dick Ferguson but he waits... in the shadows... and only when the moment is right will he strike. And you will all feel the fury of his wrath.</p>
+ <p>Jack Barnes #5: Jack Barnes aka Savvy is the athlete on the court. Trained in the deep dungeons by Ra's al Ghul, you will not out run him, you will not out jump him and you certainly will feel the flames that he bears.</p>
+ <p> Heyward Berry #6: Heyward dwells from the mystic coastland of Savannah, Ga. Heyward is always looking to shake things up whether its on the court or in his hands. Don't ever mess with Heyward, his brother Ron will find you.</p>
+ <p>Guy Peek #7: Guy the Pipe Guy Peek comes to us from the souther city of Columbus Georgia. A southern born gent when he's not in the woods or on the court you can find him in the Heights laying pipe.</p>
+ <p> The team schedule includes:</p>
+   <ol id="l02">
+      <li>KA "Legends"</li>
+    <li>The SAE "Team of Ballhogs"</li>
+    <li>Freshmen SAE "Pledgeship was so hard"</li>
+    <li>Some random fraternity that has one sick kid</li>
+    <li>Joe Bridges and friends</li>
+    <li>Law Dawgs</li>
+</body>
+</html>
